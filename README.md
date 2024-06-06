@@ -1,2 +1,5 @@
 # Posenet
-A posenet project
+A posenet project for posture detection
+
+
+Preview : http://sn31al.ai/
