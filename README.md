@@ -2,4 +2,6 @@
 A posenet project for posture detection
 
 
-Preview : http://sn31al.ai/
+Preview : https://mlposenet.netlify.app/
+
+Allow access to camera to view
